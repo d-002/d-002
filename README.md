@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @d-00 but the username was taken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @d-002 (actually D_00 but this username was taken)
+I’m interested in Python (especially Python 3), espacially PyGame and Tkinter, but also html/css/Javascript, C# for example.
 
-<!---
-d-002/d-002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check out this finesse trainer: https://d-002.github.io/finesse
