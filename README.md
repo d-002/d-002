@@ -1,5 +1,5 @@
-Hi, I’m @d-002 (actually D_00 but this username was taken)
+Hi, I’m D_00 (@d-002)
 
-I’m interested in Python (especially Python 3), especially PyGame and Tkinter, but also html/css/Javascript, C# for example.
+I’m interested in Python, especially PyGame and Tkinter, but also html/css/Javascript/PHP, C/C++/C# for example.
 
-[Overengineered profile page](https://d-002.github.io)
+[Profile page](https://d-002.github.io)
