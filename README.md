@@ -10,5 +10,5 @@
 <br>
 <p align="center">
   <a href="https://github.com/d-002" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/?username=d-002&theme=dark&bg_color=10151c"></a>
-  <a href="https://github.com/d-002" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-002&theme=dark&hide=batchfile&layout=compact&bg_color=10151c&hide_title=true&includeForks=true"></a>
+  <a href="https://github.com/d-002" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-002&theme=dark&hide=batchfile&layout=compact&bg_color=10151c&hide_title=true"></a>
 </p>
