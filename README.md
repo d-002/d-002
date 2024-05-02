@@ -9,6 +9,10 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/d-002" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/?username=d-002&theme=dark&bg_color=10151c"></a>
-  <a href="https://github.com/d-002" height=200><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-002&theme=dark&hide=batchfile&layout=compact&bg_color=10151c&hide_title=true"></a>
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&theme=cobalt"></a>
+  <br />
+  <a href="https://github.com/d-002"><img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&theme=react-dark&height=300&area=true"></a>
+  <br />
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats.vercel.app/api/?username=d-002&theme=tokyonight&bg_color=0d1117&show_icons=true"></a>
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-002&theme=dark&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true"></a>
 </p>
