@@ -9,7 +9,7 @@
 </p>
 <br>
 <details>
-  <summary><h3>Profile stats</h3></summary>
+  <summary><strong>Profile stats</strong></summary>
   <p align="center">
     <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-8bgp.vercel.app/api/?username=d-002&hide_border=true&theme=transparent&bg_color=0d1117&show_icons=true&hide_title=true"></a>
     <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-8bgp.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=transparent&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true"></a>
