@@ -9,6 +9,11 @@
 </p>
 <br>
 
+<p align="center">
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/?username=d-002&hide_border=true&theme=transparent&bg_color=0d1117&show_icons=true&hide_title=true&count-private=true"></a>
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=transparent&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true&count-private=true"></a>
+</p>
+
 <h2>Languages</h2>
 <span>
   <img height="70px" src="https://simpleicons.vercel.app/python/4584b6">
@@ -50,9 +55,6 @@
 
 <h2>Profile stats</h2>
 <p align="center">
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/?username=d-002&hide_border=true&theme=transparent&bg_color=0d1117&show_icons=true&hide_title=true&count-private=true"></a>
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=transparent&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true&count-private=true">
-  <br />
   <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent"></a>
   <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true"></a>
   <br />
