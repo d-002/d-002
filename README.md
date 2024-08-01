@@ -32,9 +32,8 @@
 <span>
   <img height="70px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img height="70px" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp">
-  <img height="70px" src="https://static-00.iconduck.com/assets.00/jquery-original-wordmark-icon-485x512-7kn0h2yt.png">
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  
 </span>
 
 <h2>Other frameworks</h2>
