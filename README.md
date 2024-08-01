@@ -45,11 +45,13 @@
 
 <h2>Other tools</h2>
 <span>
-  <img height="70px" src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png">
+  <img height="70px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png">
   <img height="70px" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png">
+  <img height="70px" src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
   <img height="70px" src="https://authy.com/wp-content/uploads/npm-logo.png">
-  <img height="70px" src="">
 </span>
 
 <h2>Profile stats</h2>
