@@ -41,6 +41,8 @@
   <img height="70px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg">
+  <img height="70px" src="https://www.pygame.org/ftp/pygame-head-party.png">
+  <img height="70px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0t0Y9CTxpGbvzomIpNd5bb4e-8lny0qrPJLBygCDMTNroCdk7FH9icIGwHPO7-SdPYBZWnvs7-I7aSf1F03kmFlFsCMdKNBMFd7B8_VGkxMQgKYhYHXJy76TxjdJERo_tNuoxkn3QgU/s200/tkinter-pluma.png">
 </span>
 
 <h2>Other tools</h2>
