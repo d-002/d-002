@@ -10,8 +10,8 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/?username=d-002&hide_border=true&theme=transparent&bg_color=0d1117&show_icons=true&hide_title=true&count-private=true"></a>
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=transparent&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true&count-private=true"></a>
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/?username=d-002&hide_border=true&theme=dracula&bg_color=0d1117&show_icons=true&hide_title=true&count-private=true"></a>
+  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=dracula&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true&count-private=true"></a>
 </p>
 
 <h2>Languages</h2>
@@ -55,6 +55,8 @@
   <img height="70px" src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
   <img height="70px" src="https://authy.com/wp-content/uploads/npm-logo.png">
+  <img height="70px" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/114x114.png">
+  <img height="70px" src="https://www.nuclino.com/img/apps/jsfiddle.svg">
 </span>
 
 <h2>Profile stats</h2>
