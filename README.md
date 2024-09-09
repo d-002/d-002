@@ -33,6 +33,7 @@
   <img height="70px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img height="70px" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
 </span>
 
@@ -43,7 +44,6 @@
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg">
   <img height="70px" src="https://www.pygame.org/ftp/pygame-head-party.png">
   <img height="70px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI0t0Y9CTxpGbvzomIpNd5bb4e-8lny0qrPJLBygCDMTNroCdk7FH9icIGwHPO7-SdPYBZWnvs7-I7aSf1F03kmFlFsCMdKNBMFd7B8_VGkxMQgKYhYHXJy76TxjdJERo_tNuoxkn3QgU/s200/tkinter-pluma.png">
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer%2C_Logo.svg">
 </span>
 
@@ -59,6 +59,7 @@
   <img height="70px" src="https://authy.com/wp-content/uploads/npm-logo.png">
   <img height="70px" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/114x114.png">
   <img height="70px" src="https://www.nuclino.com/img/apps/jsfiddle.svg">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
 </span>
 
 <h2>Profile stats</h2>
