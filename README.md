@@ -61,6 +61,8 @@
   <img height="70px" src="https://www.nuclino.com/img/apps/jsfiddle.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/trello.svg">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1280px-TeX_logo.svg.png">
+  <img height="70px" src="https://www.incredibuild.com/wp-content/uploads/2021/03/GNU.png">
 </span>
 
 <h2>Profile stats</h2>
