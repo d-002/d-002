@@ -60,8 +60,11 @@
   <img height="70px" src="https://www.nuclino.com/img/apps/jsfiddle.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/trello.svg">
-  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1280px-TeX_logo.svg.png">
+  <img height="70px" src="https://github.com/user-attachments/assets/80ce5931-6963-4303-9aaf-b89eb4f4998d">
+
   <img height="70px" src="https://www.incredibuild.com/wp-content/uploads/2021/03/GNU.png">
+  <img height="70px" src="https://github.com/user-attachments/assets/95365a16-ebb5-43fe-ac41-759f0e727763">
+
 </span>
 
 <h2>Profile stats</h2>
