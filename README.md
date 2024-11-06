@@ -24,8 +24,9 @@
   <img height="70px" src="https://5.imimg.com/data5/SELLER/Default/2023/12/372208517/IZ/UT/AI/64185218/c-course-250x250.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
-  <img height="70px" src="https://caiorss.github.io/Functional-Programming/ocaml/images/ocamlogo.png">
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png">
+  <img height="70px" src="https://caiorss.github.io/Functional-Programming/ocaml/images/ocamlogo.png">
 </span>
 
 <h2>Web frameworks, Technologies</h2>
@@ -33,8 +34,6 @@
   <img height="70px" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png">
   <img height="70px" src="https://www.rapidbrains.com/assets/img/services/rapidbrains-expressjs.webp">
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
 </span>
 
 <h2>Other frameworks</h2>
