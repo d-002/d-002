@@ -39,7 +39,7 @@
 
 <h2>Other frameworks</h2>
 <span>
-  <img height="70px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png">
+  <img height="70px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg">
   <img height="70px" src="https://www.pygame.org/ftp/pygame-head-party.png">
@@ -50,13 +50,14 @@
 <h2>Other tools</h2>
 <span>
   <img height="70px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
   <img height="70px" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png">
-  <img height="70px" src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/800px-2023_Obsidian_logo.svg.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/PyPI-Logo-notext.svg/1200px-PyPI-Logo-notext.svg.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png">
-  <img height="70px" src="https://authy.com/wp-content/uploads/npm-logo.png">
   <img height="70px" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/114x114.png">
   <img height="70px" src="https://www.nuclino.com/img/apps/jsfiddle.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">
