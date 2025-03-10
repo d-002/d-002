@@ -28,6 +28,7 @@
   <img height="70px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png">
   <img height="70px" src="https://caiorss.github.io/Functional-Programming/ocaml/images/ocamlogo.png">
+  <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </span>
 
 <h2>Web frameworks, Technologies</h2>
