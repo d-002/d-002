@@ -72,8 +72,9 @@
 
 <h2>Profile stats</h2>
 <p align="center">
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent"></a>
-  <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true"></a>
+  <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent"></span>
+  <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true"></span>
   <br />
-  <a href="https://github.com/d-002"><img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&hide_border=true&theme=react-dark&height=300&area=true"></a>
+  <span><img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&hide_border=true&theme=react-dark&height=300&area=true"></span>
+  <span><img src="https://github-profile-trophy.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B"></span>
 </p>
