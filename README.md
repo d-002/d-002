@@ -10,12 +10,16 @@
 </p>
 <br>
 
+<p align="center">I am currently enrolled in a five-year computer science engineering degree at EPITA, France, with an expected graduation date of 2028.</p>
+
 <p align="center">
   <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/?username=d-002&hide_border=true&theme=dracula&bg_color=0d1117&show_icons=true&hide_title=true&count-private=true"></a>
   <a href="https://github.com/d-002"><img width="49%" src="https://github-readme-stats-kappa-ivory-43.vercel.app/api/top-langs/?username=d-002&hide_border=true&theme=dracula&hide=batchfile&layout=compact&bg_color=0d1117&hide_title=true&count-private=true"></a>
 </p>
 
-<h2>Languages</h2>
+<hr>
+
+<h2>Languages I am familiar with</h2>
 <span>
   <img height="70px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
   <img height="70px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
@@ -29,6 +33,18 @@
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png">
   <img height="70px" src="https://caiorss.github.io/Functional-Programming/ocaml/images/ocamlogo.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+
+  <h6>More info</h6>
+  <ul>
+    <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before.</li>
+    <li><b>HTML/CSS, JS</b>: Haven't got any formal lessons about HTML/CSS or JS in my studies yet, but I coded many personal web projects, allowing me to gather consequent knowledge about these languages. Some demos of my work can be found <a href="https://d-002.github.io">here</a>.</li>
+    <li><b>PHP</b>: Did a few projects involving PHP, PDO, but I wouldn't say I'm an expert at it.</li>
+    <li><b>Arduino, Processing</b>: I started my coding adventure with Arduino, in 2018 or before, can't remember.</li>
+    <li><b>C/C++</b>: I coded small projects in C++, but I mainly focused on C, for example during 6 months in 2024 as part of my studies.</li>
+    <li><b>C#</b>: I spent a year, in 2023-2024, learning C# as part of my studies.</li>
+    <li><b>Caml</b>: I also spent a year studying Caml, mainly for formal algorithm classes in 2023-2024.</li>
+    <li><b>Java</b>: I worked with Java for 6 months in 2025, when I went to Ireland (University of Limerick) as part of my studies. I know how to code in Java alright, but I hate it so sorry if you only work with Java 🤷‍♂️.</li>
+  </ul>
 </span>
 
 <h2>Web frameworks, Technologies</h2>
@@ -67,10 +83,11 @@
 
   <img height="70px" src="https://www.incredibuild.com/wp-content/uploads/2021/03/GNU.png">
   <img height="70px" src="https://github.com/user-attachments/assets/95365a16-ebb5-43fe-ac41-759f0e727763">
-
 </span>
 
-<h2>Profile stats</h2>
+<hr>
+
+<h3 align="center">Profile stats</h3>
 <p align="center">
   <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent"></span>
   <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true"></span>
