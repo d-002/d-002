@@ -34,17 +34,19 @@
   <img height="70px" src="https://caiorss.github.io/Functional-Programming/ocaml/images/ocamlogo.png">
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 
-  <h6>More info</h6>
-  <ul>
-    <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before.</li>
-    <li><b>HTML/CSS, JS</b>: Haven't got any formal lessons about HTML/CSS or JS in my studies yet, but I coded many personal web projects, allowing me to gather consequent knowledge about these languages. Some demos of my work can be found <a href="https://d-002.github.io">here</a>.</li>
-    <li><b>PHP</b>: Did a few projects involving PHP, PDO, but I wouldn't say I'm an expert at it.</li>
-    <li><b>Arduino, Processing</b>: I started my coding adventure with Arduino, in 2018 or before, can't remember.</li>
-    <li><b>C/C++</b>: I coded small projects in C++, but I mainly focused on C, for example during 6 months in 2024 as part of my studies.</li>
-    <li><b>C#</b>: I spent a year, in 2023-2024, learning C# as part of my studies.</li>
-    <li><b>Caml</b>: I also spent a year studying Caml, mainly for formal algorithm classes in 2023-2024.</li>
-    <li><b>Java</b>: I worked with Java for 6 months in 2025, when I went to Ireland (University of Limerick) as part of my studies. I know how to code in Java alright, but I hate it so sorry if you only work with Java 🤷‍♂️.</li>
-  </ul>
+  <details>
+  <summary><h4>More info</h4></summary>
+    <ul>
+      <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before.</li>
+      <li><b>HTML/CSS, JS</b>: Haven't got any formal lessons about HTML/CSS or JS in my studies yet, but I coded many personal web projects, allowing me to gather consequent knowledge about these languages. Some demos of my work can be found <a href="https://d-002.github.io">here</a>.</li>
+      <li><b>PHP</b>: Did a few projects involving PHP, PDO, but I wouldn't say I'm an expert at it.</li>
+      <li><b>Arduino, Processing</b>: I started my coding adventure with Arduino, in 2018 or before, can't remember.</li>
+      <li><b>C/C++</b>: I coded small projects in C++, but I mainly focused on C, for example during 6 months in 2024 as part of my studies.</li>
+      <li><b>C#</b>: I spent a year, in 2023-2024, learning C# as part of my studies.</li>
+      <li><b>Caml</b>: I also spent a year studying Caml, mainly for formal algorithm classes in 2023-2024.</li>
+      <li><b>Java</b>: I worked with Java for 6 months in 2025, when I went to Ireland (University of Limerick) as part of my studies. I know how to code in Java alright, but I hate it so sorry if you only work with Java 🤷‍♂️.</li>
+    </ul>
+  </details>
 </span>
 
 <h2>Web frameworks, Technologies</h2>
