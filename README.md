@@ -35,7 +35,7 @@
   <img height="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 
   <details>
-  <summary><h4>More info</h4></summary>
+  <summary><strong>More info</strong></summary>
     <ul>
       <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before.</li>
       <li><b>HTML/CSS, JS</b>: Haven't got any formal lessons about HTML/CSS or JS in my studies yet, but I coded many personal web projects, allowing me to gather consequent knowledge about these languages. Some demos of my work can be found <a href="https://d-002.github.io">here</a>.</li>
