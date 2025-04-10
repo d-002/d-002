@@ -37,9 +37,9 @@
   <details>
   <summary><strong>More info</strong></summary>
     <ul>
-      <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before.</li>
+      <li><b>Python</b>: The language I know the most, by far. I would say I'm very proficient at it. I started really coding in Python in 2020 during lockdown, but I had learned the basics a few years before that.</li>
       <li><b>HTML/CSS, JS</b>: Haven't got any formal lessons about HTML/CSS or JS in my studies yet, but I coded many personal web projects, allowing me to gather consequent knowledge about these languages. Some demos of my work can be found <a href="https://d-002.github.io">here</a>.</li>
-      <li><b>PHP</b>: Did a few projects involving PHP, PDO, but I wouldn't say I'm an expert at it.</li>
+      <li><b>PHP</b>: Did a few projects involving PHP, PDO, sqlite3, but I wouldn't say I'm an expert at it.</li>
       <li><b>Arduino, Processing</b>: I started my coding adventure with Arduino, in 2018 or before, can't remember.</li>
       <li><b>C/C++</b>: I coded small projects in C++, but I mainly focused on C, for example during 6 months in 2024 as part of my studies.</li>
       <li><b>C#</b>: I spent a year, in 2023-2024, learning C# as part of my studies.</li>
@@ -71,7 +71,10 @@
   <img height="70px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/nvim-icon.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
+  <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png">
+  <img height="70px" src="https://static.wikia.nocookie.net/logopedia/images/5/5a/Windows_Subsystem_for_Linux_icon.png/revision/latest?cb=20240306141837">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png">
   <img height="70px" src="https://i.gyazo.com/85e7ce9196ae635161fec921602903a7.png">
   <img height="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/800px-2023_Obsidian_logo.svg.png">
