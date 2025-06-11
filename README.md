@@ -17,9 +17,9 @@
 
 <h3 align="center">Profile stats</h3>
 <p align="center">
-  <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent"></span>
-  <span><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true"></span>
-  <br />
-  <span><img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&hide_border=true&theme=react-dark&height=300&area=true"></span>
-  <span><img src="https://github-profile-trophy-beta.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B"></span>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&hide_border=true&theme=react-dark&height=300&area=true">
+  <img src="https://github-profile-trophy-beta.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 </p>
