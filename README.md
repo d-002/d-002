@@ -17,9 +17,8 @@
 
 <h3 align="center">Profile stats</h3>
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=d-002&hide_border=true&theme=transparent&mode=weekly&hide_total_contributions=true">
+  <img alt="uh oh, something seems to be broken" src="https://github-readme-stats-d-002s-projects.vercel.app/api?username=d-002&hide_border=true&theme=transparent&bg_color=0d1117&show_icons=true&hide_title=true"">
+  <img alt="uh oh, something seems to be broken" src="https://github-readme-streak-stats-d-002s-projects.vercel.app?user=d-002&hide_border=true&theme=transparent&mode=weekly">
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d-002&hide_border=true&theme=react-dark&height=300&area=true">
-  <img src="https://github-profile-trophy-beta.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+  <img alt="uh oh, something seems to be broken" src="https://github-profile-trophy-beta.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 </p>
