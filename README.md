@@ -17,8 +17,8 @@
 
 <h3 align="center">Profile stats</h3>
 <p align="center">
-  <img width="49%" alt="uh oh, something seems to be broken" src="https://github-readme-stats-d-002s-projects.vercel.app/api?username=d-002&hide_border=true&text_color=bbccdd&bg_color=0d1117&show_icons=true&hide_title=true">
-  <img width="49%" src="https://github-readme-stats-d-002s-projects.vercel.app/api/top-langs/?username=d-002&hide_title=true&hide_border=true&layout=compact&hide=html,css,markdown,tex&border_radius=0&text_color=bbccdd&bg_color=0d1117&exclude_repo=python">
+  <img width="49%" alt="uh oh, something seems to be broken" src="https://github-readme-stats-git-master-d-002s-projects.vercel.app/api?username=d-002&hide_border=true&text_color=bbccdd&bg_color=0d1117&show_icons=true&hide_title=true">
+  <img width="49%" src="https://github-readme-stats-git-master-d-002s-projects.vercel.app/api/top-langs/?username=d-002&hide_title=true&hide_border=true&layout=compact&hide=html,css,markdown,tex&border_radius=0&text_color=bbccdd&bg_color=0d1117&exclude_repo=python">
   <br>
-  <img alt="uh oh, something seems to be broken" src="https://github-profile-trophy-d-002s-projects.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
+  <img alt="uh oh, something seems to be broken" src="https://github-profile-trophy-beta.vercel.app/?username=d-002&theme=discord&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&title=-Joined2020">
 </p>
