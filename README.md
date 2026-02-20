@@ -3,6 +3,7 @@
   <p align="center">Hi. Frick zodiac signs I like Python.</p>
   <p align="center">
     <a href="https://stackoverflow.com/u/13633424" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&bg-color=#f58025"></a>
+    <a href="https://www.linkedin.com/in/l%C3%A9o-daloz-2b53713b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&bg-color=#71b7fb"></a>
     <a href="https://youtube.com/@d_00" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCaIXBey935UVtn8Dm1DF_QQ?style=for-the-badge&logo=YouTube&label=YouTube&color=%23ff0000"></a>
     <a href="https://wakatime.com/@d_00" target="_blank"><img src="https://wakatime.com/badge/user/c335b63b-caf2-4e95-8d3d-a845b8423ec7.svg?style=for-the-badge"></a>
     <img src="https://komarev.com/ghpvc/?username=d-002&color=grey&style=for-the-badge">
@@ -10,8 +11,8 @@
 </p>
 <br>
 
-<p align="center">I am currently enrolled in a five-year computer science engineering degree at EPITA, France, with an expected graduation date of 2028.</p>
-<p align="center">More info on my <a href="https://d-002.github.io">page</a></p>
+<p align="center">I am currently enrolled in a five-year computer science master's degree at EPITA, France, with an expected graduation date of 2028.</p>
+<p align="center">More projects and info on my <a href="https://d-002.github.io">homepage</a></p>
 
 <hr>
 
