@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://d-002.github.io" target="_blank"><img width="100%" src="https://d-002.github.io/v3/thumbnail.png" alt="d-002's GitHub homepage"></a>
-  <p align="center">Hi. Frick zodiac signs I like Python.</p>
+  <p align="center">Human-driven Python enthusiast.</p>
   <p align="center">
     <a href="https://stackoverflow.com/u/13633424" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&bg-color=#f58025"></a>
     <a href="https://www.linkedin.com/in/leo-daloz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&bg-color=#71b7fb"></a>
