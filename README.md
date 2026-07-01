@@ -11,12 +11,13 @@
 </p>
 <br>
 
-<p align="center">I am currently enrolled in a five-year computer science master's degree at EPITA, France, with an expected graduation date of 2028.</p>
+<p align="center">I am a third-year student at EPITA, working towards a master's degree in Computer Science, to be completed in 2028.</p>
 <p align="center">More projects and info on my <a href="https://d-002.github.io">homepage</a></p>
 
 <hr>
 
 <h3 align="center">Profile stats</h3>
+<p align="center">Keep in mind things like commit history in 2024-5 are inaccurate, as I changed my email at the start of 2026.</p>
 <p align="center">
   <img width="49%" alt="uh oh, something seems to be broken, try refreshing?" src="https://github-readme-stats-git-master-d-002s-projects.vercel.app/api?username=d-002&hide_border=true&text_color=bbccdd&bg_color=0d1117&show_icons=true&hide_title=true">
   <img width="49%" src="https://github-readme-stats-git-master-d-002s-projects.vercel.app/api/top-langs/?username=d-002&hide_title=true&hide_border=true&layout=compact&hide=html,css,markdown,tex,typst&border_radius=0&text_color=bbccdd&bg_color=0d1117&exclude_repo=python">
